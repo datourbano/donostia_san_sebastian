@@ -1,4 +1,4 @@
-# DATO URBANO: Donostia/San Sebastián (España)
+# DATO URBANO: Donostia/San Sebastián
 * ### **MOVILIDAD**
   - #### **BICI**
     - **Vialidad**
