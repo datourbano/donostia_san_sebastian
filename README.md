@@ -1,4 +1,4 @@
-## DATO URBANO: Donostia/San Sebastián (España)
+## DATO URBANO: Donostia/San Sebastián
 ---
 
 **_Este repositorio no es una fuente de datos oficial_**.
